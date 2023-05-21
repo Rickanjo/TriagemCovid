@@ -1,0 +1,2 @@
+# TriagemCovid
+Atividade Web
